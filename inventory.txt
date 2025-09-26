@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID: 1
+PRODUCT NAME: maize
+QUANTITY: 1
+PRICE: K1.0
+
+ID: 2
+PRODUCT NAME: tomato
+QUANTITY: 890
+PRICE: K700.0
+
