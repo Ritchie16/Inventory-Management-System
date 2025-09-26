@@ -43,14 +43,6 @@ A comprehensive Java-based desktop application for managing product inventory, t
 - Unique ID generation with gap filling
 - Duplicate product prevention
 
-## 🖼️ Screenshots
-
-*(Add your application screenshots here)*
-- Home Page with navigation buttons
-- Add Item form with validation
-- Stock Report with tabbed view
-- Search functionality dialog
-
 ## 🚀 Installation
 
 ### Prerequisites
